@@ -1,0 +1,17 @@
+# Virtual environment
+book-recommender/
+.env
+
+# Byte-compiled / cache files
+__pycache__/
+*.py[cod]
+
+# Logs & IDE files
+*.log
+.vscode/
+.idea/
+*.swp
+
+# Dependency files (if using poetry or pipenv)
+Pipfile.lock
+poetry.lock
